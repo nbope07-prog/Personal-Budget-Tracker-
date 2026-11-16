@@ -1,0 +1,1 @@
+I want feedback on if my code matches my UML diagrams and if my linked list and sorting algorithm are implemented correctly in my program. Also I would appreciate suggestions on how to improve my program and what additional features I could add.
